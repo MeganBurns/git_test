@@ -1,3 +1,3 @@
 # git_test
 Odin Project Repo
-Hello Odin
+This is the Recipe Project in The Odin Project
